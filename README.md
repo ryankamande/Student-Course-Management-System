@@ -36,4 +36,4 @@ The database schema includes the following tables:
 3. **Run the Script:**  
    Execute the `setup.sql` script provided in the repository. This script contains commands to create the schema, insert sample data, run sample queries, and set up advanced features such as views, indexes, and triggers.
    ```bash
-   psql -d course_management -f setup.sql
+   psql -d course_management -f Student Course Management System.sql
